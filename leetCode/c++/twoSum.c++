@@ -52,7 +52,7 @@ public:
 		Time complexity: O(n^2)
 		Space:           O(1)
     */
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum2(vector<int>& nums, int target) {
         vector<int> sumIndexs;
         
         for(int i = 0; i < nums.size(); i++){
