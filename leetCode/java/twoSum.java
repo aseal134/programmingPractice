@@ -43,9 +43,9 @@ public class Solution {
         
     }
 
-    /*
+	/*
 		Time complexity: O(n^2)
-		Space:           O(1)        
+		Space:           O(1)
 	*/
     public int[] twoSum2(int[] nums, int target) {
 		
